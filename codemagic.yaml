@@ -28,7 +28,8 @@ workflows:
           storeFile=$CM_KEYSTORE_PATH
           EOF
       - name: Build Android app
-        script:
+        script: |
+          chmod +x gradlew
           ./gradlew bundleRelease  # To generate an .apk use--> ./gradlew assembleRelease
     artifacts:
       - app/build/outputs/**/**/*.aab
