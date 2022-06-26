@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491586018831",
+    "project_id": "mymemory-ab412",
+    "storage_bucket": "mymemory-ab412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491586018831:android:bd5d1145fc973f21c20d7a",
+        "android_client_info": {
+          "package_name": "android.chryso.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491586018831-rqqtpjcphlun2pq2qfrhu8ijdgbbvabc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhbNObsGxTo2bWEOQP0mN9MxA0UkQXuW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491586018831-rqqtpjcphlun2pq2qfrhu8ijdgbbvabc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
